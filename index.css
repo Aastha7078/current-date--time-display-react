@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;  
+    box-shadow: 10px 5px 30px brown;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: bisque;
+}                                                                                       
+ .date{
+  margin: 200px;
+  padding: 50px;
+  background-color: crimson;
+  box-shadow: 10px 5px 30px brown;
+
+ }   
+
+ .time{
+  margin: 200px;
+  padding: 50px;
+  background-color: crimson;
+  box-shadow: 10px 5px 30px brown;
+ }   
+ .nav{
+  background-color: crimson;
+  display: flex;
+  justify-content: center;
+ }
